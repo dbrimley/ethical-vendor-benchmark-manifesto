@@ -8,7 +8,7 @@ This Manifesto is an attempt to provide ethical ground rules for vendors publish
 
 This Manifesto is a living document, it is Open Source and contributions from the community are welcome in the form of Issues or Pull Requests submited via the github project.
 
-We invite software vendors to sign up to this manifest and we will display signatories on an attached page.
+We invite software vendors to sign up to this manifesto and will display signatories on an attached page.
 
 The six points of the manifesto are as follows:
 
