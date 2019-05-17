@@ -2,7 +2,7 @@
 
 Vendor Benchmarking of a competing product in the market place is a common form of marketing. However such “Bench Marketing” often leads to accusations of unfairness and unprofessionalism by the competing party, when their product is shown in a less favorable light than that of the publisher of the benchmark.
 
-This manipulation can often be quite subtle and not obvious to the reader, especially if the benchmark is not reproducible or the source code is not available. Unreputable and deliberately misleading benchmarks can do considerable damage to a competing party.
+Manipulation can often be quite subtle and not obvious to the reader, especially if the benchmark is not reproducible or the source code is not available. Unreputable and deliberately misleading benchmarks can do considerable damage to a competing party.
 
 This Manifesto is an attempt to provide ethical ground rules for vendors publishing benchmarks against competitor’s products. Vendors wishing to abide by this Manifesto are free to label their benchmark as an Ethical Vendor Benchmark.
 
