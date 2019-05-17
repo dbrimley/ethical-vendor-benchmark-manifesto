@@ -6,9 +6,9 @@ This manipulation can often be quite subtle and not obvious to the reader, espec
 
 This Manifesto is an attempt to provide ethical ground rules for vendors publishing benchmarks against competitor’s products. Vendors wishing to abide by this Manifesto are free to label their benchmark as an Ethical Vendor Benchmark.
 
-This Manifesto is a living document, it is Open Source and contributions from the community are welcome in the form of Issues or Pull Requests submited via the github project (https://github.com/dbrimley/ethical-vendor-benchmark-manifesto)[https://github.com/dbrimley/ethical-vendor-benchmark-manifesto]
+This Manifesto is a living document, it is Open Source and contributions from the community are welcome in the form of Issues or Pull Requests submited via the github project.
 
-We invite software vendors to sign up to this manifeso, you can view the signatories here.
+We invite software vendors to sign up to this manifest and we will display signatories on an attached page.
 
 The six points of the manifesto are as follows:
 
