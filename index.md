@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Ethical Vendor Benchmarking Manifesto
 
-You can use the [editor on GitHub](https://github.com/dbrimley/ethical-vendor-benchmark-manifesto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vendor Benchmarking of a competing product in the market place is a common form of marketing. However such “Bench Marketing” often leads to accusations of unfairness and unprofessionalism by the competing party, when their product is shown in a less favorable light than that of the publisher of the benchmark.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This manipulation can often be quite subtle and not obvious to the reader, especially if the benchmark is not reproducible or the source code is not available. Unreputable and deliberately misleading benchmarks can do considerable damage to a competing party.
 
-### Markdown
+This Manifesto is an attempt to provide ethical ground rules for vendors publishing benchmarks against competitor’s products. Vendors wishing to abide by this Manifesto are free to label their benchmark as an Ethical Vendor Benchmark.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Manifesto is a living document, it is Open Source and contributions from the community are welcome in the form of Issues or Pull Requests submited via the github project (https://github.com/dbrimley/ethical-vendor-benchmark-manifesto)[https://github.com/dbrimley/ethical-vendor-benchmark-manifesto]
 
-```markdown
-Syntax highlighted code block
+We invite software vendors to sign up to this manifeso, you can view the signatories here.
 
-# Header 1
-## Header 2
-### Header 3
+The six points of the manifesto are as follows:
 
-- Bulleted
-- List
+## Reproducible
+Any third party should have the ability to run an ethical benchmark. This includes making the source code of the benchmarks available along with concise instructions on how to build, install and execute the benchmarks.  If any part of the benchmark requires a license to run proprietary software, this should be available via a trial to all participants.
 
-1. Numbered
-2. List
+## Transparent
+The source code of the benchmark should be publicly available (for example on Github) and the repository should accept relevant pull requests from any party in a timely manner. If vendor benchmarks are more open, they may benefit the community at large as a starting point for their own investigations.
 
-**Bold** and _Italic_ and `Code` text
+## Equalized
+The author of the benchmark should seek in good faith to equalize as many components of the benchmark as possible such as Operating System, Client Languages, Benchmarking Tools, etc. An example of an unethical benchmark would be comparing two systems where one benchmark uses Language A with Benchmarking Tool B, whilst the other side uses Language C with Benchmarking Tool D. The publisher will be expected to research the competing product sufficiently to use the fairest API and configurations.
 
-[Link](url) and ![Image](src)
-```
+## Sensible
+A benchmark should always seek to reproduce a “sensible scenario” that a user might reasonably run in a production environment.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Fair Warning
+The author of the benchmark should take reasonable means to contact the competing party at least 1 month prior to publication of the benchmark to customers or public forums. The author will fairly assist the competing party in line with “Reproducible Benchmarks” and should allow the competing party to provide changes to the source code of the benchmark affecting the competing party’s results.
 
-### Jekyll Themes
+## Right of Reply
+The benchmark publication should include a right of reply whereby the competing party can provide a response, often as a conclusion to the “Fair Warning” process. In practice, this should be a link to a relevant publication produced by the competing party. The publisher should not be expected to include a lengthy rebuttal.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dbrimley/ethical-vendor-benchmark-manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
